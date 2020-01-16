@@ -1,2 +1,3 @@
 # ML-notebooks
-DL-notebooks
+
+Notebooks and submission files for some Kaggle competitions
